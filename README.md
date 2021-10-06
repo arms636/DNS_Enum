@@ -19,4 +19,4 @@ A simple shell script to collect DNS informations of a domain.
  $ git clone https://github.com/arms636/DNS_Enum.git
  $ cd DNS_Enum
  $ chmod 755 dns_recon.sh
- $ ./dns_recon
+ $ ./dns_recon.sh
